@@ -28,6 +28,7 @@ function createGalleryMarkup(galleryItems) {
 
 function openOriginalImgInModal(e) {
   e.preventDefault();
+  console.log(e.target);
 
   const isImg = e.target.classList.contains('gallery__image');
   if (!isImg) {
@@ -35,7 +36,7 @@ function openOriginalImgInModal(e) {
   }
 
   const instance = basicLightbox.create(
-    `<img width="1400" height="900" src="${e.target.dataset.source}">`
+    `<img width="1400" height="900" src="${e.target.dataset.source}" alt="${e.target.alt}">`
   );
 
   instance.show();

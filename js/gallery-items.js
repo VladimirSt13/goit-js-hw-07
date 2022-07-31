@@ -46,24 +46,20 @@ export const galleryItems = [
     description: 'Lighthouse Coast Sea',
   },
   {
-    preview:
-      'https://images.unsplash.com/photo-1657649549577-eadf53c0062e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkwMTk1MjU&ixlib=rb-1.2.1&q=80&w=1080',
-    original:
-      'https://images.unsplash.com/photo-1657649549577-eadf53c0062e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkwMTk1MjU&ixlib=rb-1.2.1&q=80&w=1080',
-    description: '1',
+    preview: 'https://cdn.pixabay.com/photo/2014/11/23/10/49/accidental-slip-542551_640.jpg',
+    original: 'https://cdn.pixabay.com/photo/2014/11/23/10/49/accidental-slip-542551_960_720.jpg',
+    description: 'Accident',
   },
   {
-    preview:
-      'https://images.unsplash.com/photo-1657700099548-ae6572ec6d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkwMTk1NzI&ixlib=rb-1.2.1&q=80&w=1080',
+    preview: 'https://cdn.pixabay.com/photo/2022/07/18/19/57/dog-7330712_640.jpg',
     original:
-      'https://images.unsplash.com/photo-1657700099548-ae6572ec6d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkwMTk1NzI&ixlib=rb-1.2.1&q=80&w=1080',
-    description: '2',
+      'https://cdn.pixabay.com/photo/2022/07/18/19/57/dog-7330712_960_720.jpg 1x, https://cdn.pixabay.com/photo/2022/07/18/19/57/dog-7330712_1280.jpg',
+    description: 'Dog',
   },
   {
-    preview:
-      'https://images.unsplash.com/photo-1657534531210-e4b1388efe95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkwMTk2MjM&ixlib=rb-1.2.1&q=80&w=1080',
+    preview: 'https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_640.jpg',
     original:
-      'https://images.unsplash.com/photo-1657534531210-e4b1388efe95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTkwMTk2MjM&ixlib=rb-1.2.1&q=80&w=1080',
-    description: '3',
+      'https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg 1x, https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_1280.jpg',
+    description: 'Cat',
   },
 ];
